@@ -6,6 +6,9 @@
   * Enable #hashtag and public account analysis in one interface
   * Export into csv with average sentiment score in the filename
   * Remove line break, tab, url, and retweets to get clean data
-  * Environment data is hidden. User needs to provide their own.
+  * Environment data is hidden
+  
+  ### TODO
+  * A index-out-of-range error occurs occasionally. It should be an easy fix.
 
 ## In android folder, it analyzes the sentence you put in. 
